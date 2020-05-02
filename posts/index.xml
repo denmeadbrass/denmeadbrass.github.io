@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Denmead Brass</title>
-    <link>https://example.com/posts/</link>
+    <link>https://denmeadbrass.github.io/posts/</link>
     <description>Recent content in Posts on Denmead Brass</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://denmeadbrass.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rehearsals Suspended</title>
-      <link>https://example.com/posts/rehearsals-suspended/</link>
+      <link>https://denmeadbrass.github.io/posts/rehearsals-suspended/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/rehearsals-suspended/</guid>
+      <guid>https://denmeadbrass.github.io/posts/rehearsals-suspended/</guid>
       <description>Today&amp;rsquo;s post is written with a great deal of sadness and difficulty. Unfortunately Denmead Brass have come to the decision to suspend our rehearsals until further notice in light of recent health advice issued by the government. We implement these measures to keep the health and wellbeing of our community the number one priority. Keep safe, and keep making music - Denmead Brass
 If you have any queries please email us.</description>
     </item>
     
     <item>
       <title>West of England Regionals 2020</title>
-      <link>https://example.com/posts/west-of-england-regionals-2020/</link>
+      <link>https://denmeadbrass.github.io/posts/west-of-england-regionals-2020/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/west-of-england-regionals-2020/</guid>
+      <guid>https://denmeadbrass.github.io/posts/west-of-england-regionals-2020/</guid>
       <description>Denmead Brass once again took part in the West of England Regional Brass Band Championships in Torquay. Playing in the 2nd Section we were very pleased to come 5th.</description>
     </item>
     
