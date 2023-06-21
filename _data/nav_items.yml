@@ -1,0 +1,17 @@
+- title: Home
+  url: "/"
+
+- title: Book
+  url: "/book/"
+
+- title: Hear
+  url: "/hear/"
+
+- title: Join
+  url: "/join/"
+
+- title: About
+  url: "/about/"
+
+- title: Contact
+  url: "/contact/"

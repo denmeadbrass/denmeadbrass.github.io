@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', () => {
+
+        // Get all "navbar-burger" elements
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+        // Add a click event on each of them
+        $navbarBurgers.forEach( el => {
+          el.addEventListener('click', () => {
+
+            // Get the target from the "data-target" attribute
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+
+            // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
+          });
+        });
+      });
+    </script>
+  </head>
+  <body class="has-background-dark">
+    <div id="nav-section" class="section px-0 pt-0">
+    {% include navbar.html %}
+    </div>
+    {% if page.hero-image %}
+     <div id="hero-div" class="image">
+       <img class="image" src="/images/Hero.png" style="width: 100%">
+       <div class="is-overlay" style="height: 40px; background-image: url('/images/fade-to-navbar.png');"></div>
+    </div>
+    {% endif %}
+    <div id="content-section" class="section px-0 has-background-light">
+        {{ content }}
+    </div>
+    <div id="footer-section" class="section px-0">
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

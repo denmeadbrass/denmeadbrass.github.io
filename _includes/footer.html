@@ -1,0 +1,35 @@
+<footer class="footer has-background-dark has-text-warning">
+  <div class="container">
+  <div class="columns">
+    <div class="column">
+      <ul>
+        {% for item in site.data.nav_items %}
+        <li>
+          <a href="{{ item.url}}" class="has-text-warning">
+            {{ item.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="column">
+      <ul>
+        <li>
+          <a href="/safeguarding/" class="has-text-warning">
+            Safeguarding
+          </a>        
+        </li>
+        <li>
+          <a href="/policiesandprocedures/" class="has-text-warning">
+            Policies & Procedures
+          </a>
+        </li>
+        <li>
+          Registered Charity No. 268623
+          </li>
+        </ul>
+    </div>
+  </div>
+  <p>© 2023 Denmead Brass</p>
+  </div>
+</footer>
