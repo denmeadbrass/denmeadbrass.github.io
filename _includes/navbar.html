@@ -4,14 +4,14 @@
             <img src="" width="0" height="0">
           </a>  
 
-          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
+          <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNavbar">
+                <span class="has-background-warning" aria-hidden="true"></span>
+                <span class="has-background-warning" aria-hidden="true"></span>
+                <span class="has-background-warning" aria-hidden="true"></span>
               </a>
             </div>
   
-    <div id="mainNavbar" class="navbar-menu">
+    <div id="mainNavbar" class="navbar-menu has-background-dark">
       <div class="navbar-start">
         {% for item in site.data.nav_items %}
         <a class="navbar-item has-text-warning" href="{{ item.url}}">
