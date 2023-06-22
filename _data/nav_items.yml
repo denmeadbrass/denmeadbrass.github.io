@@ -2,16 +2,16 @@
   url: "/"
 
 - title: Book
-  url: "/book/"
+  url: "/book.html"
 
 - title: Hear
-  url: "/hear/"
+  url: "/hear.html"
 
 - title: Join
-  url: "/join/"
+  url: "/join.html"
 
 - title: About
-  url: "/about/"
+  url: "/about.html"
 
 - title: Contact
-  url: "/contact/"
+  url: "/contact.html"
