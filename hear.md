@@ -5,7 +5,7 @@ title: "Hear Denmead Brass Play"
 
 Come and hear Denmead Brass play live at one of our upcoming public appearances. We play music in all sorts of styles from film, shows, pop, jazz, classical, as well as traditional brass band music.
 
-Blah blah
+You can hear us at these events:
 
 <div class="columns is-multiline">
     {% assign sorted = site.posts 

@@ -1,6 +1,7 @@
 ---
 layout: gig
-title: Denmead Training Band at the Dinosaur Derby
+title: Denmead Dinosaur Derby
+band: Training Band
 venue: Denmead Scout Hut
 address: Kidmore Lane, Denmead
 time: 12 noon

@@ -1,6 +1,7 @@
 ---
 layout: gig
 title: Proms in the Park
+band: Main Band and Training Band
 venue: Denmead Community Centre
 address: School Lane, Denmead PO7 6LU
 time: 6.30 pm

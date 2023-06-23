@@ -7,8 +7,12 @@
   <div class="card-content">
     <div class="title is-4">{{ post.title }}</div>
     <div class="content">
+      <p>{{ post.band}}</p>
       <p>{{ post.venue}}</p>
       <p>{{ post.date | date: "%A %d %B %Y" }}</p>
+      <div class="buttons is-right">
+        <span class="button is-link">More</span>
+      </div>
     </div>
   </div>
 </div>

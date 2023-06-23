@@ -1,6 +1,7 @@
 ---
 layout: gig
 title: Denmead Junior School Fete
+band: Small Group
 venue: Denmead Junior School
 address: Bere Road, Denmead PO7 6PH
 time: 12 noon
