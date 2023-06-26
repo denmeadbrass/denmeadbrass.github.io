@@ -8,4 +8,4 @@ time: 6.30 pm
 image: 2023-07-08-proms-in-the-park.jpg
 ---
 
-Bring a picnic and enjoy an outdoor "last night of the proms" style event featuring Denmead Brass, the Portsmouth Ska Choir and singer ?????????????. Listen to a varied selection of music and sing along to the traditional "last night" tunes. A fun and informal evening for all the family.
+Bring a picnic and enjoy an outdoor "last night of the proms" style event featuring Denmead Brass and the Portsmouth Ska Choir. Listen to a varied selection of music and sing along to the traditional "last night" tunes. A fun and informal evening for all the family.

@@ -1,11 +1,4 @@
-Add DB navbar-brand
-
 Complete gig layout to use frontmatter info
-
-Improve contact form formatting:
-- Input widths
-- Message box size and not resizable
-- Add validation?
 
 Consider adding hidden form field to identify source page (e.g. book, hear) to include in response email
 

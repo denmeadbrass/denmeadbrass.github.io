@@ -10,8 +10,12 @@ layout: master
           </figure>
         </div>
         <div class="column">
-          <h1 class="title">{{ page.title }}</h1>
+          <h1 class="title is-2">{{ page.title }}</h1>
+          <h2 class="title is-4">{{ page.band }}</h2>
           {{ content }}
+          <p class="has-text-weight-bold mt-3 mb-2">{{ page.date | date: "%A %d %B %Y" }} at {{ page.time }}</p>          
+          <p>{{ page.venue }}</p>
+          <p>{{ page.address }}</p>
         </div>
       </div>
     </div>
