@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Policies and Procedures"
+---
+
+<p>
+    Denmead Brass have a number of policies to ensure our members and the public are safe and abide by the law. Please find our policy documents attached below:
+</p>
+<ul>
+    {% for file in site.static_files %}
+        {% if file.path contains 'assets/policies_and_procedures' %}
+        <li>
+            <a href="{{ file.path }}" target="_blank">{{ file.basename }}</a>
+        </li>
+        {% endif %}
+    {% endfor %}
+</ul>

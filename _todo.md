@@ -1,5 +1,3 @@
-Complete gig layout to use frontmatter info
-
 Consider adding hidden form field to identify source page (e.g. book, hear) to include in response email
 
 Check contact form functioning with google forms
