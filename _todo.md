@@ -6,4 +6,4 @@ Consider adding honeypot field to form
 
 Email contact form details
 
-Complete Policies and Procedures page
+Check cookies and add cookies policy page
