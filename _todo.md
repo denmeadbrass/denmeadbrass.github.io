@@ -7,3 +7,5 @@ Consider adding honeypot field to form
 Email contact form details
 
 Check cookies and add cookies policy page
+
+Add facebook link
