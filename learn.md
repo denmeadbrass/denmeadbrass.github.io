@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Learn To Play With Denmead Brass"
-page-image: "/images/learn/learn-banner.png"
+page-image: "/images/learn/Learn-banner.png"
 ---
 
 ## 🎺 Join the Denmead Brass Revolution! 🎺
