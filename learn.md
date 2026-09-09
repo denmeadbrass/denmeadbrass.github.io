@@ -4,53 +4,59 @@ title: "Learn To Play With Denmead Brass"
 page-image: "/images/learn/Learn-banner.png"
 ---
 
-## 🎺 Join the Denmead Brass Revolution! 🎺
+## New Beginner Band at Denmead Brass
+__Learn a new skill. Rediscover your music. Make friends and have fun.__
 
-Are you ready to be a part of something extraordinary? Denmead Brass is excited to announce the launch of our brand-new Beginner Brass Band Pathway project, and we’ll be looking for passionate new members to join us!
+Denmead Brass is excited to launch a __new Beginner Band for children and adults__, starting on __Tuesday 1st September 2026__ at Denmead Community Centre.
 
-Our Beginner Brass Pathway consists of two stages:
+__Tuesday | 7:00pm – 8:00pm__
+__Denmead Community Centre, School Lane, Denmead, PO7 6LU__
 
-- __Initial Notes__: Designed to support children and beginners in learning a Brass instrument. Once the student is up to 5 notes, they will be encouraged to participate in the new Beginner Band.
+### Who is the Beginner Band for?
+The band is designed to be a friendly and relaxed place to start or restart your musical journey.
 
- - __Beginner Band__: This new community-based ensemble will allow promoted students from the Initial Notes group to join musical forces with confident students and adults who are relatively new to Brass instruments. Once a member is confident up to a Grade 3 level, they will be encouraged to participate in the existing Training Band.
+You are welcome whether you:
 
-Whilst predominantly being a Brass Band, percussionists are also welcome to attend and be coached.
+- Have never played a musical instrument before
+- Have recently started learning and can play a few notes
+- Played an instrument in the past and would like to get back into it
+- Want to learn a new skill in a supportive group environment
 
-This innovative pathway is designed to open the doors of musical opportunity to everyone in our community. Whether you’re a seasoned musician or a beginner with a love for music, we want to welcome you with open arms.
+__No previous musical experience is required.__ If you're completely new to music, we'll help you find the right pathway to get started and develop your skills.
 
-If affordability of an instrument is a barrier, then do not worry as Denmead Brass can provide free instrument hire (subject to availability) as part of the band’s monthly membership. 
+### Which instruments can I play?
+There are opportunities to learn and play a range of brass and percussion instruments:
 
-Activities to begin start of November 2024, with the Initial Notes and Beginner Band commencing from January 2025.
+- Cornet / Trumpet
+- Tenor Horn / French Horn
+- Trombone
+- Euphonium / Baritone
+- Tuba
+- Percussion
 
-By joining us, you’ll not only engage in a fulfilling and inclusive leisure activity but also help elevate the musical culture in our area. Together, we’ll create harmonious connections through community involvement, education and the joy of music.
+Not sure which instrument is right for you? Don't worry. We can talk you through the options and recommend the best starting point for you.
 
-Let’s make music that brings people together and enriches our community. Ready to make some noise? Join Denmead Brass today and be part of a musical movement! ✨
+### Support to help you learn
+Rehearsals are led by a __QTS-qualified music teacher and professional musician__, providing a supportive and encouraging environment for players to develop their confidence and musical skills.
 
-## How 
+__Individual lessons are not required__ to join the Beginner Band. However, if you'd like additional one-to-one tuition, lessons are available through our partners, __The Southern Music Project__.
 
-We are currently seeking funding to begin this new project in September 2024. Within our application, we’ll be looking to initiate the two new ensembles. The funds will support the costs of the venue, tuition fees, community music trials, educational projects within local and supporting schools and the purchase of uniforms for new band members who might be facing financial hardship. Together, we can create vibrant musical opportunities that enrich our community and inspire the next generation of musicians.
+Our aim is to make learning music accessible, enjoyable and achievable, whatever your starting point.
 
-## Why
+### Instrument Loan
+Don't have an instrument? __Free instrument loan is available__, subject to availability and on a first come, first served basis.
 
-Access to brass tuition in our local community is sorely lacking, and we are determined to change that. As a dedicated Brass Band, we want to open the doors to the myriad benefits of ensemble participation, enriching our community with the vibrant results of our rehearsals.
+This means you don't need to own an instrument before you get started.
 
-Over the next three years, we have an exciting goal: to nurture a youth ensemble that will compete in the Debut section of the National Youth Brass Band Championships. This journey will showcase the remarkable progress of our students, both children and adults, as they advance through the ranks of our existing Training and Main bands at Denmead Brass. Join us as we cultivate talent, foster musical excellence and build a stronger, more harmonious community.
+### Membership
+Membership of the Beginner Band is __just £10 per month__.
 
-This initiative is supported by:
+For this, you'll be part of the Denmead Brass family, learning and playing alongside others in a friendly and supportive environment.
 
-- Southern Music Project (Delivery Partner)
-- Denmead Parish Council
-- Denmead Community Centre
-- Members of Denmead Brass
-- St. Peters Primary School
-- Denmead Junior School
-- Berewood Primary School
-- Horndean Secondary School
-- Bosmere Junior School
-- Brass Band England
+### Ready to get started?
+If you've ever thought about learning a musical instrument, or you've been meaning to pick one up again, __now could be the perfect time__.
 
-## Sign Up To Learn
+__Complete the sign-up form below__ to register your interest. We'll be in touch with the information you need to get started and help you find the right pathway for you.
 
-Interested in joining the band? Sign up to our waiting list through the form below.
 
 {% include contact_form.html %}
